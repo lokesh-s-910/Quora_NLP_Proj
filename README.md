@@ -8,3 +8,5 @@ The goal of this competition is to predict which of the provided pairs of questi
       - Tf_Idf_Vectorizer applied to Improve Accuracy
       - Better Improvement in Model Word2Vec could be applied to reduce computational complexity
   - I applied the Random Forest given Model which gave me a 79% accuracy score which gave the result of similar latent value
+# Dataset contains 63Mb 
+  I provide the Link https://www.kaggle.com/c/quora-question-pairs/data
