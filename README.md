@@ -7,4 +7,4 @@ The goal of this competition is to predict which of the provided pairs of questi
       - BagOfWords were applied which produced low accuracy
       - Tf_Idf_Vectorizer applied to Improve Accuracy
       - Better Improvement in Model Word2Vec could be applied to reduce computational complexity
-  - I applied the Random Forest given Model which gave me a 79% accuracy score
+  - I applied the Random Forest given Model which gave me a 79% accuracy score which gave the result of similar latent value
